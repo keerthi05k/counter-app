@@ -1,0 +1,36 @@
+body {
+  background-color: aqua;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 15%;
+}
+
+.increase
+{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border: solid 1px black;
+  border-radius: 10px;
+}
+
+.decrease {
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  border: solid 1px black;
+  border-radius: 10px;
+  background-color: rgb(242, 44, 44);
+  cursor: not-allowed;
+}
+
+.reset {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+}
